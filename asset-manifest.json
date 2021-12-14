@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/Barnet-template/static/css/main.dec28a36.chunk.css",
-    "main.js": "/Barnet-template/static/js/main.c3c44bf7.chunk.js",
-    "main.js.map": "/Barnet-template/static/js/main.c3c44bf7.chunk.js.map",
-    "runtime-main.js": "/Barnet-template/static/js/runtime-main.028cab5e.js",
-    "runtime-main.js.map": "/Barnet-template/static/js/runtime-main.028cab5e.js.map",
-    "static/js/2.5c0a2170.chunk.js": "/Barnet-template/static/js/2.5c0a2170.chunk.js",
-    "static/js/2.5c0a2170.chunk.js.map": "/Barnet-template/static/js/2.5c0a2170.chunk.js.map",
-    "static/js/3.d4eea40e.chunk.js": "/Barnet-template/static/js/3.d4eea40e.chunk.js",
-    "static/js/3.d4eea40e.chunk.js.map": "/Barnet-template/static/js/3.d4eea40e.chunk.js.map",
+    "main.css": "/Barnet-template/static/css/main.19ecc420.chunk.css",
+    "main.js": "/Barnet-template/static/js/main.2717fac7.chunk.js",
+    "main.js.map": "/Barnet-template/static/js/main.2717fac7.chunk.js.map",
+    "runtime-main.js": "/Barnet-template/static/js/runtime-main.e0ef2476.js",
+    "runtime-main.js.map": "/Barnet-template/static/js/runtime-main.e0ef2476.js.map",
+    "static/css/2.591db2b6.chunk.css": "/Barnet-template/static/css/2.591db2b6.chunk.css",
+    "static/js/2.c72e058c.chunk.js": "/Barnet-template/static/js/2.c72e058c.chunk.js",
+    "static/js/2.c72e058c.chunk.js.map": "/Barnet-template/static/js/2.c72e058c.chunk.js.map",
+    "static/js/3.c7879a74.chunk.js": "/Barnet-template/static/js/3.c7879a74.chunk.js",
+    "static/js/3.c7879a74.chunk.js.map": "/Barnet-template/static/js/3.c7879a74.chunk.js.map",
     "index.html": "/Barnet-template/index.html",
-    "static/css/main.dec28a36.chunk.css.map": "/Barnet-template/static/css/main.dec28a36.chunk.css.map",
-    "static/js/2.5c0a2170.chunk.js.LICENSE.txt": "/Barnet-template/static/js/2.5c0a2170.chunk.js.LICENSE.txt",
+    "static/css/2.591db2b6.chunk.css.map": "/Barnet-template/static/css/2.591db2b6.chunk.css.map",
+    "static/css/main.19ecc420.chunk.css.map": "/Barnet-template/static/css/main.19ecc420.chunk.css.map",
+    "static/js/2.c72e058c.chunk.js.LICENSE.txt": "/Barnet-template/static/js/2.c72e058c.chunk.js.LICENSE.txt",
+    "static/media/4.c24865b7.jpg": "/Barnet-template/static/media/4.c24865b7.jpg",
     "static/media/App.css": "/Barnet-template/static/media/footerBackGroung.59e0853b.png",
     "static/media/Member-1.af694226.jpg": "/Barnet-template/static/media/Member-1.af694226.jpg",
     "static/media/Product.50fd8325.jpg": "/Barnet-template/static/media/Product.50fd8325.jpg",
@@ -19,9 +22,10 @@
     "static/media/image-1.2a251136.jpg": "/Barnet-template/static/media/image-1.2a251136.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.028cab5e.js",
-    "static/js/2.5c0a2170.chunk.js",
-    "static/css/main.dec28a36.chunk.css",
-    "static/js/main.c3c44bf7.chunk.js"
+    "static/js/runtime-main.e0ef2476.js",
+    "static/css/2.591db2b6.chunk.css",
+    "static/js/2.c72e058c.chunk.js",
+    "static/css/main.19ecc420.chunk.css",
+    "static/js/main.2717fac7.chunk.js"
   ]
 }
