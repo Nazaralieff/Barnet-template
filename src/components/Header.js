@@ -64,25 +64,25 @@ function Header() {
               </div>
               <ul id = 'header-manu' className="d-flex">
                   <li>
-                      <Link to = '#'>Home</Link>
+                      <Link to = '/'>Home</Link>
                   </li>
                   <li>
-                      <Link to = '#'>About</Link>
+                      <Link to = '/about'>About</Link>
                   </li>
                   <li>
-                      <Link to = '#'>Services</Link>
+                      <Link to = '/services'>Services</Link>
                   </li>
                   <li>
-                      <Link to = '#'>Cases</Link>
+                      <Link to = '/cases'>Cases</Link>
                   </li>
                   <li>
-                      <Link to = '#'>Shop</Link>
+                      <Link to = '/shop'>Shop</Link>
                   </li>
                   <li>
-                      <Link to = '#'>Blog</Link>
+                      <Link to = '/blog'>Blog</Link>
                   </li>
                   <li>
-                      <Link to = '#'>Contact</Link>
+                      <Link to = 'contact'>Contact</Link>
                   </li>
               </ul>
               <div id = 'header-getStarted' className="d-flex">

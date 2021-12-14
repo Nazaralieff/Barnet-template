@@ -1,5 +1,5 @@
 import React from "react";
-import about from '../../img/News/about.jpg'
+import about from '../../img/Home/News/about.jpg'
 
 function HomeAbout() {
   return (

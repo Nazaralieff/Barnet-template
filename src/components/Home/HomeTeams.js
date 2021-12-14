@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import img1 from "../../img/Teams/Member-1.jpg";
-import img2 from "../../img/Teams/Member-1.jpg";
-import img3 from "../../img/Teams/Member-1.jpg";
+import img1 from "../../img/Home/Teams/Member-1.jpg";
+import img2 from "../../img/Home/Teams/Member-1.jpg";
+import img3 from "../../img/Home/Teams/Member-1.jpg";
 
 function HomeTeams() {
   const [TeamMember, setTeamMember] = useState([

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import img from "../../img/Quality/image-1.jpg";
+import img from "../../img/Home/Quality/image-1.jpg";
 
 function HomeQuality() {
   const [QualityItems, setQualityItems] = useState([
